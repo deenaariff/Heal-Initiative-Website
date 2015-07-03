@@ -13,9 +13,9 @@ panels_data:
   - |
     a:3:{s:7:"widgets";a:2:{i:0;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:96:"[spacer height="150px"]
     <h3 style="text-align: center;">Our Mission</h3>
-    [spacer height="150px"]";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:3:{s:10:"background";s:7:"#ffffff";s:27:"background_image_attachment";i:567;s:18:"background_display";s:5:"cover";}}}i:1;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:1856:"<h2 style="text-align: center;">"To create, scale, and sustain a pipeline of health professionals to care for the poorest communities at home and abroad"</h2>
+    [spacer height="150px"]";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:3:{s:10:"background";s:7:"#ffffff";s:27:"background_image_attachment";i:567;s:18:"background_display";s:5:"cover";}}}i:1;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:1858:"<h2 style="text-align: center;">"To create, scale, and sustain a pipeline of health professionals to care for the poorest communities at home and abroad"</h2>
     &nbsp;
-    <div style="text-align: center;"><iframe src="https://www.youtube.com/embed/6FrMGeVZero" width="50%" height="75%" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+    <div style="text-align: center;"><iframe src="https://www.youtube.com/embed/6FrMGeVZero" width="50%" height="200px" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
     &nbsp;
     
     <strong><em>Overview</em></strong>
