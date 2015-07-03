@@ -9,7 +9,7 @@ permalink: http://healtest.space/
 published: true
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:24:{i:0;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:87:"<p>[spacer height="200px"]</p><p> </p><p>[spacer height="150px"]</p><p> </p><p> </p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:240:"<p style="text-align: center;">[KGVID poster="http://healtest.space/wp-content/uploads/2015/06/HEAL-Initiative-HD-1_thumb206.jpg" width="640" height="360"]http://healtest.space/wp-content/uploads/2015/05/HEAL-Initiative-HD-1.mp4[/KGVID]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:5:"style";a:2:{s:7:"padding";s:4:"30px";s:18:"background_display";s:4:"tile";}}}i:2;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:882:"<h2 style="text-align: center;"> </h2><p> </p><h2 style="text-align: center;"> </h2><h2 style="text-align: center;">"Alleviating needless suffering through training a health workforce, at home and abroad."</h2><p>Many of the leading causes of death – such as diabetes, heart disease, stroke, and cancer – in resource-poor countries today are preventable and/or treatable, and have been for decades. Additionally, as the world develops and changes, the medical paradigm has shifted; rather than responding primarily to humanitarian emergencies and infectious diseases, health care providers must now also focus on managing chronic illnesses and creating sustainable health systems. To consistently deliver care to those in need, we must transform our view of global health.<b>     </b></p><p style="text-align: left;"><a class="button darkblue" href="/">Our Mission</a></p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:2;s:5:"style";a:3:{s:7:"padding";s:4:"10px";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:3;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:305:"<h5 style="text-align: center;"><a href="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2.jpg"><img class=" wp-image-151 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2-300x200.jpg" alt="on mobile clinic 2" width="394" height="258" /></a>Serve</h5>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:3;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:4;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:311:"<h5 style="text-align: center;"><a href="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623.jpg"><img class="  wp-image-152 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623-300x201.jpg" alt="Lester_0801107_0623" width="397" height="257" /></a>Educate</h5>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:1;s:2:"id";i:4;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:5;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:249:"<h5 style="text-align: center;"><img class="  wp-image-150 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Haiti_0397_SheilaMenezes_Proposal-300x200.jpg" alt="Haiti_0397_SheilaMenezes_Proposal" width="403" height="263" />Heal</h5>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:2;s:2:"id";i:5;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:6;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:108:"[spacer height="2px"]
+    a:3:{s:7:"widgets";a:24:{i:0;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:87:"<p>[spacer height="200px"]</p><p> </p><p>[spacer height="150px"]</p><p> </p><p> </p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:240:"<p style="text-align: center;">[KGVID poster="http://healtest.space/wp-content/uploads/2015/06/HEAL-Initiative-HD-1_thumb206.jpg" width="640" height="360"]http://healtest.space/wp-content/uploads/2015/05/HEAL-Initiative-HD-1.mp4[/KGVID]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:5:"style";a:2:{s:7:"padding";s:4:"30px";s:18:"background_display";s:4:"tile";}}}i:2;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:845:"<h2 style="text-align: center;"> </h2><p> </p><h2 style="text-align: center;"> "Alleviating needless suffering through training a health workforce, at home and abroad."</h2><p>Many of the leading causes of death – such as diabetes, heart disease, stroke, and cancer – in resource-poor countries today are preventable and/or treatable, and have been for decades. Additionally, as the world develops and changes, the medical paradigm has shifted; rather than responding primarily to humanitarian emergencies and infectious diseases, health care providers must now also focus on managing chronic illnesses and creating sustainable health systems. To consistently deliver care to those in need, we must transform our view of global health.<b>     </b></p><p style="text-align: left;"><a class="button darkblue" href="/">Our Mission</a></p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:2;s:5:"style";a:3:{s:7:"padding";s:4:"10px";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:3;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:305:"<h5 style="text-align: center;"><a href="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2.jpg"><img class=" wp-image-151 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2-300x200.jpg" alt="on mobile clinic 2" width="394" height="258" /></a>Serve</h5>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:0;s:2:"id";i:3;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:4;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:311:"<h5 style="text-align: center;"><a href="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623.jpg"><img class="  wp-image-152 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623-300x201.jpg" alt="Lester_0801107_0623" width="397" height="257" /></a>Educate</h5>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:1;s:2:"id";i:4;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:5;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:249:"<h5 style="text-align: center;"><img class="  wp-image-150 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Haiti_0397_SheilaMenezes_Proposal-300x200.jpg" alt="Haiti_0397_SheilaMenezes_Proposal" width="403" height="263" />Heal</h5>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:2;s:4:"cell";i:2;s:2:"id";i:5;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:6;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:108:"[spacer height="2px"]
     <p style="text-align: center;"><a class="button darkblue" href="/">Fellowship</a></p>
     ";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:0;s:2:"id";i:6;s:5:"style";a:2:{s:10:"background";s:7:"#897364";s:18:"background_display";s:5:"cover";}}}i:7;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:666:"<h6 style="text-align: left;">Our Curriculum</h6>
     <p style="text-align: left;">Patient Care in Low Resource Settings</p>
@@ -27,8 +27,29 @@ panels_data:
 wptr_hide_title:
   - "1"
 ---
-<p>[spacer height="200px"]</p><p>&nbsp;</p><p>[spacer height="150px"]</p><p>&nbsp;</p><p>&nbsp;</p><p style="text-align: center;">[KGVID poster="http://healtest.space/wp-content/uploads/2015/06/HEAL-Initiative-HD-1_thumb206.jpg" width="640" height="360"]http://healtest.space/wp-content/uploads/2015/05/HEAL-Initiative-HD-1.mp4[/KGVID]</p><h2 style="text-align: center;">&nbsp;</h2><h2 style="text-align: center;">&nbsp;</h2><h2 style="text-align: center;">"Alleviating needless suffering through training a health workforce, at home and abroad."</h2><p>Many of the leading causes of death – such as diabetes, heart disease, stroke, and cancer – in resource-poor countries today are preventable and/or treatable, and have been for decades. Additionally, as the world develops and changes, the medical paradigm has shifted; rather than responding primarily to humanitarian emergencies and infectious diseases, health care providers must now also focus on managing chronic illnesses and creating sustainable health systems. To consistently deliver care to those in need, we must transform our view of global health.<b>&nbsp; &nbsp; &nbsp;</b></p><p style="text-align: center;"><a class="button darkblue" href="/">Our Mission</a></p><h5 style="text-align: center;"><a href="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2.jpg"><img class=" wp-image-151 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2-300x200.jpg" alt="on mobile clinic 2" width="394" height="258"></a>Serve</h5><h5 style="text-align: center;"><a href="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623.jpg"><img class="  wp-image-152 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623-300x201.jpg" alt="Lester_0801107_0623" width="397" height="257"></a>Educate</h5><h5 style="text-align: center;"><img class="  wp-image-150 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Haiti_0397_SheilaMenezes_Proposal-300x200.jpg" alt="Haiti_0397_SheilaMenezes_Proposal" width="403" height="263">Heal</h5>[spacer height="2px"]
+[spacer height="200px"]
+
+&nbsp;
+
+[spacer height="150px"]
+
+&nbsp;
+
+&nbsp;
+<p style="text-align: center;">[KGVID poster="http://healtest.space/wp-content/uploads/2015/06/HEAL-Initiative-HD-1_thumb206.jpg" width="640" height="360"]http://healtest.space/wp-content/uploads/2015/05/HEAL-Initiative-HD-1.mp4[/KGVID]</p>
+
+<h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;">"Alleviating needless suffering through training a health workforce, at home and abroad."</h2>
+Many of the leading causes of death – such as diabetes, heart disease, stroke, and cancer – in resource-poor countries today are preventable and/or treatable, and have been for decades. Additionally, as the world develops and changes, the medical paradigm has shifted; rather than responding primarily to humanitarian emergencies and infectious diseases, health care providers must now also focus on managing chronic illnesses and creating sustainable health systems. To consistently deliver care to those in need, we must transform our view of global health.<b>     </b>
+<p style="text-align: center;"><a class="button darkblue" href="/">Our Mission</a></p>
+
+<h5 style="text-align: center;"><a href="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2.jpg"><img class=" wp-image-151 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2-300x200.jpg" alt="on mobile clinic 2" width="394" height="258" /></a>Serve</h5>
+<h5 style="text-align: center;"><a href="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623.jpg"><img class="  wp-image-152 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623-300x201.jpg" alt="Lester_0801107_0623" width="397" height="257" /></a>Educate</h5>
+<h5 style="text-align: center;"><img class="  wp-image-150 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Haiti_0397_SheilaMenezes_Proposal-300x200.jpg" alt="Haiti_0397_SheilaMenezes_Proposal" width="403" height="263" />Heal</h5>
+[spacer height="2px"]
 <p style="text-align: center;"><a class="button darkblue" href="/">Fellowship</a></p>
+
 <h6 style="text-align: left;">Our Curriculum</h6>
 <p style="text-align: left;">Patient Care in Low Resource Settings</p>
 <p style="text-align: left;">Disease of Poverty in Adults</p>
@@ -38,7 +59,84 @@ wptr_hide_title:
 <p style="text-align: left;">Quality Measurement</p>
 <p style="text-align: left;">Ethical Reasoning and Professional Practice</p>
 <p style="text-align: left;">Effective Teaching</p>
-<p style="text-left: center;"><a class="button darkblue" href="/">Learn More...</a></p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">San Francisco &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mexico &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Haiti &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;India</p><p style="text-align: center;">Navajo Nations &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...... &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Liberia &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nepal</p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">&nbsp;</p><p>[spacer height="550px"]</p><h3 style="text-align: center;">20 &nbsp;: 9</h3>
+<p style="text-left: center;"><a class="button darkblue" href="/">Learn More...</a></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">San Francisco           Mexico          Haiti          India</p>
+<p style="text-align: center;">Navajo Nations          ......            Liberia            Nepal</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+[spacer height="550px"]
+<h3 style="text-align: center;">20  : 9</h3>
 <h5 style="text-align: center;">Percentage Ratio of US population in rural population to Physicians in those areas</h5>
 &nbsp;
-<h3 style="text-align: center;">57</h3><h5 style="text-align: center;"># of developing countries with severe shortages of health professionals</h5><h3 style="text-align: center;">70 %</h3><p style="text-align: center;">&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><a href="http://healtest.space/wp-content/uploads/2015/05/hands.png"><img class="  wp-image-366 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/hands-300x102.png" alt="hands" width="316" height="103"></a></p><p>&nbsp;</p><p><a href="http://healtest.space/wp-content/uploads/2015/05/picture6-e1407001058991.png"><img class="  wp-image-380 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/picture6-e1407001058991-300x162.png" alt="picture6-e1407001058991" width="240" height="132"></a></p><p>&nbsp;</p><p>&nbsp;</p><p><a href="http://healtest.space/wp-content/uploads/2015/05/zanmi-lasante.png"><img class="  wp-image-383 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/zanmi-lasante.png" alt="zanmi-lasante" width="241" height="69"></a></p><p>&nbsp;</p><p>&nbsp;</p><p><a href="http://healtest.space/wp-content/uploads/2015/05/picture10.png"><img class="  wp-image-387 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/picture10-300x158.png" alt="picture10" width="258" height="126"></a></p><h6 style="text-align: center;">Our&nbsp;Partners</h6><p>&nbsp;</p><p><a href="http://healtest.space/wp-content/uploads/2015/05/ces.png"><img class="  wp-image-369 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/ces-300x74.png" alt="ces" width="290" height="70"></a></p><p>&nbsp;</p><p>&nbsp;</p><p><a href="http://healtest.space/wp-content/uploads/2015/05/picture5-e1407000932782.png"><img class="  wp-image-381 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/picture5-e1407000932782.png" alt="picture5-e1407000932782" width="163" height="98"></a></p><p>&nbsp;</p><p>&nbsp;</p><p><a href="http://healtest.space/wp-content/uploads/2015/05/picture9.png"><img class="  wp-image-384 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/picture9.png" alt="picture9" width="210" height="50"></a></p><p>&nbsp;</p><p>&nbsp;</p><p><a href="http://healtest.space/wp-content/uploads/2015/05/picture7-e1407000809877.png"><img class="  wp-image-388 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/picture7-e1407000809877-300x176.png" alt="picture7-e1407000809877" width="208" height="122"></a></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><a href="http://healtest.space/wp-content/uploads/2015/05/ihslogo2.gif"><img class="  wp-image-371 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/ihslogo2-300x295.gif" alt="ihslogo2" width="93" height="97"></a></p><p>&nbsp;</p><p><a href="http://healtest.space/wp-content/uploads/2015/05/possible-logo1-e1397652285628.jpeg"><img class="  wp-image-382 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/possible-logo1-e1397652285628.jpeg" alt="possible-logo1-e1397652285628" width="194" height="106"></a></p><p>&nbsp;</p><p>&nbsp;</p><p><a href="http://healtest.space/wp-content/uploads/2015/05/picture8.png"><img class="  wp-image-386 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/picture8.png" alt="picture8" width="278" height="85"></a></p>
+<h3 style="text-align: center;">57</h3>
+<h5 style="text-align: center;"># of developing countries with severe shortages of health professionals</h5>
+<h3 style="text-align: center;">70 %</h3>
+<p style="text-align: center;"></p>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://healtest.space/wp-content/uploads/2015/05/hands.png"><img class="  wp-image-366 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/hands-300x102.png" alt="hands" width="316" height="103" /></a>
+
+&nbsp;
+
+<a href="http://healtest.space/wp-content/uploads/2015/05/picture6-e1407001058991.png"><img class="  wp-image-380 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/picture6-e1407001058991-300x162.png" alt="picture6-e1407001058991" width="240" height="132" /></a>
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://healtest.space/wp-content/uploads/2015/05/zanmi-lasante.png"><img class="  wp-image-383 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/zanmi-lasante.png" alt="zanmi-lasante" width="241" height="69" /></a>
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://healtest.space/wp-content/uploads/2015/05/picture10.png"><img class="  wp-image-387 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/picture10-300x158.png" alt="picture10" width="258" height="126" /></a>
+<h6 style="text-align: center;">Our Partners</h6>
+&nbsp;
+
+<a href="http://healtest.space/wp-content/uploads/2015/05/ces.png"><img class="  wp-image-369 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/ces-300x74.png" alt="ces" width="290" height="70" /></a>
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://healtest.space/wp-content/uploads/2015/05/picture5-e1407000932782.png"><img class="  wp-image-381 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/picture5-e1407000932782.png" alt="picture5-e1407000932782" width="163" height="98" /></a>
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://healtest.space/wp-content/uploads/2015/05/picture9.png"><img class="  wp-image-384 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/picture9.png" alt="picture9" width="210" height="50" /></a>
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://healtest.space/wp-content/uploads/2015/05/picture7-e1407000809877.png"><img class="  wp-image-388 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/picture7-e1407000809877-300x176.png" alt="picture7-e1407000809877" width="208" height="122" /></a>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://healtest.space/wp-content/uploads/2015/05/ihslogo2.gif"><img class="  wp-image-371 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/ihslogo2-300x295.gif" alt="ihslogo2" width="93" height="97" /></a>
+
+&nbsp;
+
+<a href="http://healtest.space/wp-content/uploads/2015/05/possible-logo1-e1397652285628.jpeg"><img class="  wp-image-382 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/possible-logo1-e1397652285628.jpeg" alt="possible-logo1-e1397652285628" width="194" height="106" /></a>
+
+&nbsp;
+
+&nbsp;
+
+<a href="http://healtest.space/wp-content/uploads/2015/05/picture8.png"><img class="  wp-image-386 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/picture8.png" alt="picture8" width="278" height="85" /></a>
