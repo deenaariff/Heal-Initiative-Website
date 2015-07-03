@@ -48,11 +48,8 @@ wptr_hide_title:
 <p style="text-align: left;">Ethical Reasoning and Professional Practice</p>
 <p style="text-align: left;">Effective Teaching</p>
 <p style="text-left: center;"><a class="button darkblue" href="/">Learn More...</a></p>
-<p style="text-align: center;"></p>
 <p style="text-align: center;">San Francisco           Mexico          Haiti          India</p>
 <p style="text-align: center;">Navajo Nations          ......            Liberia            Nepal</p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"></p>
 [spacer height="550px"]
 <h3 style="text-align: center;">20  : 9</h3>
 <h5 style="text-align: center;">Percentage Ratio of US population in rural population to Physicians in those areas</h5>
@@ -60,7 +57,6 @@ wptr_hide_title:
 <h3 style="text-align: center;">57</h3>
 <h5 style="text-align: center;"># of developing countries with severe shortages of health professionals</h5>
 <h3 style="text-align: center;">70 %</h3>
-<p style="text-align: center;"></p>
 &nbsp;
 
 &nbsp;
