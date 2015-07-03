@@ -11,7 +11,7 @@ wptr_hide_title:
   - "1"
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:2:{i:0;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:110:"<p>[spacer height="200px"]</p><h5 style="text-align: center;">Our Mission</h5><p> [spacer height="100px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:3:{s:10:"background";s:7:"#ffffff";s:27:"background_image_attachment";i:567;s:18:"background_display";s:5:"cover";}}}i:1;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:1669:"<h3 style="text-align: center;">"To create, scale, and sustain a pipeline of health professionals to care for the poorest communities at home and abroad"</h3>
+    a:3:{s:7:"widgets";a:2:{i:0;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:110:"<p>[spacer height="200px"]</p><h5 style="text-align: center;">Our Mission</h5><p> [spacer height="100px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:3:{s:10:"background";s:7:"#ffffff";s:27:"background_image_attachment";i:567;s:18:"background_display";s:5:"cover";}}}i:1;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:1669:"<h2 style="text-align: center;">"To create, scale, and sustain a pipeline of health professionals to care for the poorest communities at home and abroad"</h2>
     <strong><em>Overview</em></strong>
     
     &nbsp;
@@ -28,12 +28,7 @@ panels_data:
     	<li><b>S</b>erve: implement projects and programs that respond to the needs of vulnerable populations</li>
     </ol>";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:5:"style";a:4:{s:7:"padding";s:4:"2.5%";s:10:"background";s:7:"#ffffff";s:27:"background_image_attachment";b:0;s:18:"background_display";s:5:"cover";}}}}s:5:"grids";a:1:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:11:"row_stretch";s:14:"full-stretched";s:10:"background";s:7:"#e6e6e6";s:18:"background_display";s:4:"tile";}}}s:10:"grid_cells";a:1:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}}}
 ---
-[spacer height="200px"]
-<h5 style="text-align: center;">Our Mission</h5>
-[spacer height="100px"]
-
-&nbsp;
-
+<p>[spacer height="200px"]</p><h5 style="text-align: center;">Our Mission</h5><p>&nbsp;[spacer height="100px"]</p><h2 style="text-align: center;">"To create, scale, and sustain&nbsp;a pipeline of health professionals to care for the poorest communities at home and abroad"</h2>
 <strong><em>Overview</em></strong>
 
 &nbsp;
