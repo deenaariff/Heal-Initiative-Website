@@ -17,7 +17,7 @@ panels_data:
     &nbsp;
     
     <div style="text-align: center;">
-    <iframe src="https://www.youtube.com/embed/6FrMGeVZero" width="563" height="370" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+    <iframe src="https://www.youtube.com/embed/6FrMGeVZero" width="75%" height="25%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
     </div>
     
     &nbsp;
@@ -41,7 +41,9 @@ panels_data:
 [spacer height="150px"]<h2 style="text-align: center;">"To create, scale, and sustain&nbsp;a pipeline of health professionals to care for the poorest communities at home and abroad"</h2>
 &nbsp;
 
-<iframe style="align: center;" src="https://www.youtube.com/embed/6FrMGeVZero" width="563" height="370" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<iframe src="https://www.youtube.com/embed/6FrMGeVZero" width="563" height="370" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 
 &nbsp;
 
