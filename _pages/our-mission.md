@@ -30,7 +30,7 @@ panels_data:
     	<li><b>I</b>mprove: develop health systems strengthening, quality and safety, including through scholarship and dissemination</li>
     	<li><b>P</b>artner Sustainability: collaborate longitudinally with academic institutions, governments and non-governmental organizations (NGO)</li>
     	<li><b>S</b>erve: implement projects and programs that respond to the needs of vulnerable populations</li>
-    </ol>";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:5:"style";a:4:{s:7:"padding";s:4:"2.5%";s:10:"background";s:7:"#ffffff";s:27:"background_image_attachment";b:0;s:18:"background_display";s:5:"cover";}}}}s:5:"grids";a:1:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:11:"row_stretch";s:14:"full-stretched";s:10:"background";s:7:"#e6e6e6";s:18:"background_display";s:4:"tile";}}}s:10:"grid_cells";a:1:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}}}
+    </ol>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:1;s:5:"style";a:3:{s:7:"padding";s:4:"2.5%";s:10:"background";s:7:"#ffffff";s:18:"background_display";s:5:"cover";}}}}s:5:"grids";a:1:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:11:"row_stretch";s:14:"full-stretched";s:10:"background";s:7:"#e6e6e6";s:18:"background_display";s:4:"tile";}}}s:10:"grid_cells";a:1:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}}}
 ---
 [spacer height="150px"]
 <h3 style="text-align: center;">Our Mission</h3>
