@@ -27,19 +27,28 @@ panels_data:
 wptr_hide_title:
   - "1"
 ---
-[spacer height="200px"]
-<p style="text-align: center;">[KGVID poster="http://healtest.space/wp-content/uploads/2015/07/HEAL-Initiative-HD-1_thumb29.jpg" width="640" height="360"]http://healtest.space/wp-content/uploads/2015/05/HEAL-Initiative-HD-1.mp4[/KGVID]</p>
+[spacer height="20px"]
+
+<a href="http://healtest.space/wp-content/uploads/2015/05/FINAL-LOGO_white.png"><img class="alignnone size-medium wp-image-108" src="http://healtest.space/wp-content/uploads/2015/05/FINAL-LOGO_white-296x300.png" alt="FINAL LOGO_white" width="296" height="300" /></a>
+
+&nbsp;
+
+[spacer height="20px"]
+
+&nbsp;
+
+&nbsp;
+<p style="text-align: center;">[KGVID poster="http://healtest.space/wp-content/uploads/2015/06/HEAL-Initiative-HD-1_thumb206.jpg" width="640" height="360"]http://healtest.space/wp-content/uploads/2015/05/HEAL-Initiative-HD-1.mp4[/KGVID]</p>
 
 <h2 style="text-align: center;"></h2>
-<h2 style="text-align: center;"> "Alleviating needless suffering through training a health workforce, at home and abroad."</h2>
-Many of the leading causes of death – such as diabetes, heart disease, stroke, and cancer – in resource-poor countries today are preventable and/or treatable, and have been for decades. Additionally, as the world develops and changes, the medical paradigm has shifted; rather than responding primarily to humanitarian emergencies and infectious diseases, health care providers must now also focus on managing chronic illnesses and creating sustainable health systems. To consistently deliver care to those in need, we must transform our view of global health.<b>     </b>
-<p style="text-align: left;"><a class="button darkblue" href="/">Our Mission</a></p>
-
-<h5 style="text-align: center;"><a href="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2.jpg"><img class=" wp-image-151 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2-300x200.jpg" alt="on mobile clinic 2" width="394" height="258" /></a>Serve</h5>
-<h5 style="text-align: center;"><a href="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623.jpg"><img class="  wp-image-152 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623-300x201.jpg" alt="Lester_0801107_0623" width="397" height="257" /></a>Educate</h5>
-<h5 style="text-align: center;"><img class="  wp-image-150 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Haiti_0397_SheilaMenezes_Proposal-300x200.jpg" alt="Haiti_0397_SheilaMenezes_Proposal" width="403" height="263" />Heal</h5>
+<h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;">"Alleviating needless suffering through training a health workforce, at home and abroad."</h2>
+<h5 style="text-align: center;"><a href="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2.jpg"><img class=" wp-image-151 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2-300x200.jpg" alt="on mobile clinic 2" width="370" height="247" /></a>Serve</h5>
+<h5 style="text-align: center;"><a href="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623.jpg"><img class="  wp-image-152 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623-300x201.jpg" alt="Lester_0801107_0623" width="357" height="233" /></a>Educate</h5>
+<h5 style="text-align: center;"><img class="  wp-image-150 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Haiti_0397_SheilaMenezes_Proposal-300x200.jpg" alt="Haiti_0397_SheilaMenezes_Proposal" width="359" height="233" />Heal</h5>
 [spacer height="2px"]
-<p style="text-align: center;"><a class="button darkblue" href="/">Fellowship</a></p>
+<p style="text-align: center;"><a class="button darkblue" href="/">Discover Heal</a></p>
 
 <h6 style="text-align: left;">Our Curriculum</h6>
 <p style="text-align: left;">Patient Care in Low Resource Settings</p>
