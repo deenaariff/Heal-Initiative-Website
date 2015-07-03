@@ -17,7 +17,8 @@ panels_data:
 ---
 [spacer height="150px"]
 <h6 style="text-align: center;">Our Mission</h6>
-[spacer height="150px"]<h2 style="text-align: center;">"To create, scale, and sustain&nbsp;a pipeline of health professionals to care for the poorest communities at home and abroad"</h2>
+[spacer height="150px"]
+<h2 style="text-align: center;">"To create, scale, and sustain a pipeline of health professionals to care for the poorest communities at home and abroad"</h2>
 &nbsp;
 
 <strong><em>Overview</em></strong>
@@ -28,8 +29,8 @@ The HEAL Initiative works in <strong><em>Native American reservations, prisons, 
 
 <strong><em>Our Guiding Principles</em></strong>
 <ol>
-	<li><p><b>T</b>each: train future health professionals at partner sites in the U.S. and abroad</p></li>
-	<li><p><b>I</b>mprove: develop health systems strengthening, quality and safety, including through scholarship and dissemination</p></li>
-	<li><p><b>P</b>artner Sustainability: collaborate longitudinally with academic institutions, governments and non-governmental organizations (NGO)</p></li>
-	<li><p><b>S</b>erve: implement projects and programs that respond to the needs of vulnerable populations</p></li>
+	<li><b>T</b>each: train future health professionals at partner sites in the U.S. and abroad</li>
+	<li><b>I</b>mprove: develop health systems strengthening, quality and safety, including through scholarship and dissemination</li>
+	<li><b>P</b>artner Sustainability: collaborate longitudinally with academic institutions, governments and non-governmental organizations (NGO)</li>
+	<li><b>S</b>erve: implement projects and programs that respond to the needs of vulnerable populations</li>
 </ol>
