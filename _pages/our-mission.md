@@ -14,13 +14,13 @@ panels_data:
     a:3:{s:7:"widgets";a:2:{i:0;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:255:"[spacer height="200px"]
     <h5 style="text-align: center;">Our Mission</h5>
     <p2 style="text-align: center;">To create, scale, and sustain a pipeline of health professionals to care for the poorest communities at home and abroad.</p2>
-    [spacer height="100px"]";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:3:{s:10:"background";s:7:"#ffffff";s:27:"background_image_attachment";i:567;s:18:"background_display";s:5:"cover";}}}i:1;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:1465:"&nbsp;
+    [spacer height="100px"]";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:3:{s:10:"background";s:7:"#ffffff";s:27:"background_image_attachment";i:567;s:18:"background_display";s:5:"cover";}}}i:1;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:1472:"&nbsp;
     
     The HEAL Initiative works in <strong><em>Native American reservations, prisons, and the poorest villages</em></strong> on our planet. We <strong><em>pair</em></strong> dedicated <strong><em>U.S.</em></strong> providers with <strong><em>local</em></strong> health professionals who are already working in these communities. HEAL <strong><em>fellows</em></strong> work <strong><em>together</em></strong> on the <strong><em>frontline</em></strong> for<strong><em>two</em></strong> years. They develop skills essential to global health delivery through <strong><em>immersive training</em></strong>, an on-line Master’s in Public Health at UC Berkeley, and intensive mentorship. HEAL <strong><em>will</em></strong> be <strong><em>sustainable</em></strong> with scale since we leverage existing funds. HEAL makes serving the <strong><em>poorest of the poor</em></strong> the first choice for health professionals.
     
     <strong><em>Our Guiding Principles</em></strong>
     <ol>
-    	<li><b>T</b>each: train future health professionals at partner sites in the U.S. and abroad</li>
+    	<li><p><b>T</b>each: train future health professionals at partner sites in the U.S. and abroad</p></li>
     	<li><b>I</b>mprove: develop health systems strengthening, quality and safety, including through scholarship and dissemination</li>
     	<li><b>P</b>artner Sustainability: collaborate longitudinally with academic institutions, governments and non-governmental organizations (NGO)</li>
     	<li><b>S</b>erve: implement projects and programs that respond to the needs of vulnerable populations</li>
@@ -35,7 +35,7 @@ The HEAL Initiative works in <strong><em>Native American reservations, prisons, 
 
 <strong><em>Our Guiding Principles</em></strong>
 <ol>
-	<li><b>T</b>each: train future health professionals at partner sites in the U.S. and abroad</li>
+	<li><p><b>T</b>each: train future health professionals at partner sites in the U.S. and abroad</p></li>
 	<li><b>I</b>mprove: develop health systems strengthening, quality and safety, including through scholarship and dissemination</li>
 	<li><b>P</b>artner Sustainability: collaborate longitudinally with academic institutions, governments and non-governmental organizations (NGO)</li>
 	<li><b>S</b>erve: implement projects and programs that respond to the needs of vulnerable populations</li>
