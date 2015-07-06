@@ -17,4 +17,27 @@ panels_data:
 ---
 [spacer height="150px"]
 <h3 style="text-align: center;">Our Mission</h3>
-[spacer height="150px"]<h2 style="text-align: center;">&nbsp;</h2><h2 style="text-align: center;"><strong>"To create, scale, and sustain&nbsp;a pipeline of health professionals to care for the poorest communities at home and abroad"</strong></h2><p>&nbsp;</p><iframe src="https://www.youtube.com/embed/6FrMGeVZero" width="640" height="390" frameborder="0" allowfullscreen="allowfullscreen"></iframe><p>&nbsp;</p><p><strong><em>Overview</em></strong></p><p>The HEAL Initiative works in <strong><em>Native American reservations, prisons, and the poorest villages</em></strong> on our planet. We <strong><em>pair</em></strong> dedicated <strong><em>U.S.</em></strong> providers with <strong><em>local</em></strong> health professionals who are already working in these communities. HEAL <strong><em>fellows</em></strong> work <strong><em>together</em></strong> on the <strong><em>frontline</em></strong> for<strong><em>two</em></strong> years. They develop skills essential to global health delivery through <strong><em>immersive training</em></strong>, an on-line Master’s in Public Health at UC Berkeley, and intensive mentorship. HEAL <strong><em>will</em></strong> be <strong><em>sustainable</em></strong> with scale since we leverage existing funds. HEAL makes serving the <strong><em>poorest of the poor</em></strong> the first choice for health professionals.</p><p>&nbsp;</p><p><strong><em>Our Guiding Principles</em></strong></p><p><b>T</b>each: train future health professionals at partner sites in the U.S. and abroad</p><p><b>I</b>mprove: develop health systems strengthening, quality and safety, including through scholarship and dissemination</p><p><b>P</b>artner Sustainability: collaborate longitudinally with academic institutions, governments and non-governmental organizations (NGO)</p><p><b>S</b>erve: implement projects and programs that respond to the needs of vulnerable populations</p>
+[spacer height="150px"]
+<h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;"><strong>"To create, scale, and sustain a pipeline of health professionals to care for the poorest communities at home and abroad"</strong></h2>
+&nbsp;
+
+<iframe src="https://www.youtube.com/embed/6FrMGeVZero" width="640" height="390" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+&nbsp;
+
+<strong><em>Overview</em></strong>
+
+The HEAL Initiative works in <strong><em>Native American reservations, prisons, and the poorest villages</em></strong> on our planet. We <strong><em>pair</em></strong> dedicated <strong><em>U.S.</em></strong> providers with <strong><em>local</em></strong> health professionals who are already working in these communities. HEAL <strong><em>fellows</em></strong> work <strong><em>together</em></strong> on the <strong><em>frontline</em></strong> for<strong><em>two</em></strong> years. They develop skills essential to global health delivery through <strong><em>immersive training</em></strong>, an on-line Master’s in Public Health at UC Berkeley, and intensive mentorship. HEAL <strong><em>will</em></strong> be <strong><em>sustainable</em></strong> with scale since we leverage existing funds. HEAL makes serving the <strong><em>poorest of the poor</em></strong> the first choice for health professionals.
+
+&nbsp;
+
+<strong><em>Our Guiding Principles</em></strong>
+
+<b>T</b>each: train future health professionals at partner sites in the U.S. and abroad
+
+<b>I</b>mprove: develop health systems strengthening, quality and safety, including through scholarship and dissemination
+
+<b>P</b>artner Sustainability: collaborate longitudinally with academic institutions, governments and non-governmental organizations (NGO)
+
+<b>S</b>erve: implement projects and programs that respond to the needs of vulnerable populations
