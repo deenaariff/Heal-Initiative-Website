@@ -46,8 +46,9 @@ panels_data:
     
     </div>
     &nbsp;
-    <p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:5;s:4:"cell";i:1;s:2:"id";i:23;s:5:"style";a:3:{s:7:"padding";s:4:"10px";s:10:"background";s:7:"#ededed";s:18:"background_display";s:5:"cover";}}}i:24;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="400px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:6;s:4:"cell";i:0;s:2:"id";i:24;s:5:"style";a:2:{s:27:"background_image_attachment";i:888;s:18:"background_display";s:5:"cover";}}}i:25;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:785:"<h7 class="headline">UC Berkeley MPH</h7>
+    <p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:5;s:4:"cell";i:1;s:2:"id";i:23;s:5:"style";a:3:{s:7:"padding";s:4:"10px";s:10:"background";s:7:"#ededed";s:18:"background_display";s:5:"cover";}}}i:24;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="400px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:6;s:4:"cell";i:0;s:2:"id";i:24;s:5:"style";a:2:{s:27:"background_image_attachment";i:888;s:18:"background_display";s:5:"cover";}}}i:25;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:786:"<h7 class="headline">UC Berkeley MPH</h7>
     <div class="entry-content">
+    
     
     As part of the two-year fellowship curriculum, fellows and their counterparts will be given the opportunity to earn a Master in Public Health through the online MPH program offered by the University of California Berkeley School of Public Health. The aim of the MPH is to supplement one’s clinical training with the public health skills needed to protect and promote the health of communities, as well as to better advocate for quality and accessibility in health care. Fellows who already have their MPH will have the opportunity to pursue other degree or non-degree programs to supplement their prior degree.
     
@@ -91,6 +92,7 @@ The HEAL Initiative believes a mentorship model that ensures both consistency an
 
 &nbsp;
 <p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p><p>[spacer height="400px"]</p><h7 class="headline">UC Berkeley MPH</h7>
+
 
 
 As part of the two-year fellowship curriculum, fellows and their counterparts will be given the opportunity to earn a Master in Public Health through the online MPH program offered by the University of California Berkeley School of Public Health.&nbsp;The aim of the MPH is to supplement one’s clinical training with the public health skills needed to protect and promote the health of communities, as well as to better advocate for quality and accessibility in health care. Fellows who already have their MPH will have the opportunity to pursue other degree or non-degree programs to supplement their prior degree.
