@@ -30,7 +30,7 @@ panels_data:
     
     &nbsp;
     <p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p>
-    ";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:1;s:2:"id";i:19;s:5:"style";a:3:{s:7:"padding";s:4:"10px";s:10:"background";s:7:"#ededed";s:18:"background_display";s:5:"cover";}}}i:20;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="350px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:4;s:4:"cell";i:0;s:2:"id";i:20;s:5:"style";a:2:{s:27:"background_image_attachment";i:880;s:18:"background_display";s:5:"cover";}}}i:21;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:714:"<h7>Faculty Mentorship</h7>
+    ";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:1;s:2:"id";i:19;s:5:"style";a:3:{s:7:"padding";s:4:"10px";s:10:"background";s:7:"#ededed";s:18:"background_display";s:5:"cover";}}}i:20;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="360px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:4;s:4:"cell";i:0;s:2:"id";i:20;s:5:"style";a:2:{s:27:"background_image_attachment";i:880;s:18:"background_display";s:5:"cover";}}}i:21;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:714:"<h7>Faculty Mentorship</h7>
     
     &nbsp;
     
@@ -46,7 +46,7 @@ panels_data:
     
     </div>
     &nbsp;
-    <p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:5;s:4:"cell";i:1;s:2:"id";i:23;s:5:"style";a:4:{s:7:"padding";s:4:"10px";s:10:"background";s:7:"#ededed";s:27:"background_image_attachment";b:0;s:18:"background_display";s:5:"cover";}}}i:24;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="400px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:6;s:4:"cell";i:0;s:2:"id";i:24;s:5:"style";a:2:{s:27:"background_image_attachment";i:888;s:18:"background_display";s:5:"cover";}}}i:25;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:813:"<h7>UC Berkeley MPH</h7>
+    <p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:5;s:4:"cell";i:1;s:2:"id";i:23;s:5:"style";a:3:{s:7:"padding";s:4:"10px";s:10:"background";s:7:"#ededed";s:18:"background_display";s:5:"cover";}}}i:24;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="400px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:6;s:4:"cell";i:0;s:2:"id";i:24;s:5:"style";a:2:{s:27:"background_image_attachment";i:888;s:18:"background_display";s:5:"cover";}}}i:25;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:813:"<h7>UC Berkeley MPH</h7>
     <div class="entry-content">
     
     &nbsp;
@@ -78,7 +78,7 @@ An integral part of the HEAL Initiative curriculum is a month-long intensive Boo
 
 &nbsp;
 <p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p>
-<p>[spacer height="350px"]</p><h7>Faculty Mentorship</h7>
+<p>[spacer height="360px"]</p><h7>Faculty Mentorship</h7>
 
 &nbsp;
 
