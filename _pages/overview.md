@@ -30,7 +30,12 @@ panels_data:
     
     &nbsp;
     <p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p>
-    ";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:1;s:2:"id";i:19;s:5:"style";a:3:{s:7:"padding";s:4:"10px";s:10:"background";s:7:"#ededed";s:18:"background_display";s:5:"cover";}}}i:20;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="400px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:4;s:4:"cell";i:0;s:2:"id";i:20;s:5:"style";a:2:{s:27:"background_image_attachment";i:880;s:18:"background_display";s:5:"cover";}}}i:21;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:709:"<p>Faculty Mentorship</p><p>The HEAL Initiative believes a mentorship model that ensures both consistency and quality is an essential component of its fellows’ experience. Therefore, the HEAL Initiative matches each of its fellows with mentors who will provide guidance and support throughout the fellowship’s two-year duration. These on-site mentors will contribute local knowledge and resources for fellows, assist with research projects, and provide other day-to-day support. Bi-weekly meetings between fellows and the on-site mentor foster communication and collaboration within the HEAL Initiative team</p><p> </p><p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:4;s:4:"cell";i:1;s:2:"id";i:21;s:5:"style";a:4:{s:7:"padding";s:4:"10px";s:10:"background";s:7:"#ffffff";s:27:"background_image_attachment";b:0;s:18:"background_display";s:5:"cover";}}}i:22;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="400px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:5;s:4:"cell";i:0;s:2:"id";i:22;s:5:"style";a:2:{s:27:"background_image_attachment";i:892;s:18:"background_display";s:5:"cover";}}}i:23;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:1120:"<h7>Anesthesia Pathway</h7>
+    ";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:3;s:4:"cell";i:1;s:2:"id";i:19;s:5:"style";a:3:{s:7:"padding";s:4:"10px";s:10:"background";s:7:"#ededed";s:18:"background_display";s:5:"cover";}}}i:20;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="400px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:4;s:4:"cell";i:0;s:2:"id";i:20;s:5:"style";a:2:{s:27:"background_image_attachment";i:880;s:18:"background_display";s:5:"cover";}}}i:21;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:706:"<h7>Faculty Mentorship</h7>
+    
+    The HEAL Initiative believes a mentorship model that ensures both consistency and quality is an essential component of its fellows’ experience. Therefore, the HEAL Initiative matches each of its fellows with mentors who will provide guidance and support throughout the fellowship’s two-year duration. These on-site mentors will contribute local knowledge and resources for fellows, assist with research projects, and provide other day-to-day support. Bi-weekly meetings between fellows and the on-site mentor foster communication and collaboration within the HEAL Initiative team
+    
+    &nbsp;
+    <p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:4;s:4:"cell";i:1;s:2:"id";i:21;s:5:"style";a:4:{s:7:"padding";s:4:"10px";s:10:"background";s:7:"#ffffff";s:27:"background_image_attachment";b:0;s:18:"background_display";s:5:"cover";}}}i:22;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="400px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:5;s:4:"cell";i:0;s:2:"id";i:22;s:5:"style";a:2:{s:27:"background_image_attachment";i:892;s:18:"background_display";s:5:"cover";}}}i:23;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:1120:"<h7>Anesthesia Pathway</h7>
     
     &nbsp;
     <div class="entry-content">
@@ -56,39 +61,48 @@ panels_data:
 <h5 style="text-align: center;"></h5>
 <h3 style="text-align: center;">Our Program</h3>
 &nbsp;
-
+<p style="text-align: center;">[hover category="steps" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p>
+<p style="text-align: center;">[hover category="step-4" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p>
+<p style="text-align: center;">[hover category="step-2" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p>
+<p style="text-align: center;">[hover category="step-5" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p>
+<p style="text-align: center;">[hover category="step-3" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p>
 &nbsp;
-
-
-
-&nbsp;&nbsp;<p style="text-align: center;">[hover category="steps" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p><p style="text-align: center;">[hover category="step-4" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p><p style="text-align: center;">[hover category="step-2" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p><p style="text-align: center;">[hover category="step-5" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p><p style="text-align: center;">[hover category="step-3" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p><p>&nbsp;</p><p style="text-align: center;">MPH Semester 1</p><p>&nbsp;</p><p style="text-align: center;">MPH Semester 2</p><p>&nbsp;</p><p style="text-align: center;">MPH Semester 3</p><p>&nbsp;</p><p style="text-align: center;">MPH Semester 4</p><p>&nbsp;</p><p style="text-align: center;">MPH Semester 5</p>&nbsp;
-<p style="text-align: center;">MPH Semester 6</p><p>&nbsp;</p><p style="text-align: center;">Indian Health Service</p><p>&nbsp;</p><p style="text-align: center;">International</p><p>&nbsp;</p><p style="text-align: center;">Indian Health Service</p><p>&nbsp;</p><p style="text-align: center;">International</p><p>&nbsp;</p><p style="text-align: center;">Indian Health Service</p>&nbsp;
+<p style="text-align: center;">MPH Semester 1</p>
+&nbsp;
+<p style="text-align: center;">MPH Semester 2</p>
+&nbsp;
+<p style="text-align: center;">MPH Semester 3</p>
+&nbsp;
+<p style="text-align: center;">MPH Semester 4</p>
+&nbsp;
+<p style="text-align: center;">MPH Semester 5</p>
+&nbsp;
+<p style="text-align: center;">MPH Semester 6</p>
+&nbsp;
+<p style="text-align: center;">Indian Health Service</p>
+&nbsp;
 <p style="text-align: center;">International</p>
-<p>[spacer height="400px"]</p><h7 class="headline">Global Health Bootcamp</h7>
 &nbsp;
-
-An integral part of the HEAL Initiative curriculum is a month-long intensive Bootcamp intended for the US-based fellows as well as their on-site counterparts. The July Bootcamp consists of a combination of didactic lectures, interactive case studies, clinical skills training, and facilitated mentorship. The objective is to equip HEAL fellows with the practical knowledge and skills needed to work in low-resource settings, while simultaneously promoting critical thinking and fostering collaboration across all HEAL sites.
-
+<p style="text-align: center;">Indian Health Service</p>
 &nbsp;
+<p style="text-align: center;">International</p>
+&nbsp;
+<p style="text-align: center;">Indian Health Service</p>
+&nbsp;
+<p style="text-align: center;">International</p>
+[spacer height="400px"]
+
+Global Health Bootcamp   An integral part of the HEAL Initiative curriculum is a month-long intensive Bootcamp intended for the US-based fellows as well as their on-site counterparts. The July Bootcamp consists of a combination of didactic lectures, interactive case studies, clinical skills training, and facilitated mentorship. The objective is to equip HEAL fellows with the practical knowledge and skills needed to work in low-resource settings, while simultaneously promoting critical thinking and fostering collaboration across all HEAL sites.
 <p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p>
-<p>[spacer height="400px"]</p><p>Faculty Mentorship</p><p>The HEAL Initiative believes a mentorship model that ensures both consistency and quality is an essential component of its fellows’ experience. Therefore, the HEAL Initiative matches each of its fellows with mentors who will provide guidance and support throughout the fellowship’s two-year duration. These on-site mentors will contribute local knowledge and resources for fellows, assist with research projects, and provide other day-to-day support. Bi-weekly meetings between fellows and the on-site mentor foster communication and collaboration within the HEAL Initiative team</p><p>&nbsp;</p><p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p><p>[spacer height="400px"]</p><h7>Anesthesia Pathway</h7>
+[spacer height="400px"]
 
-&nbsp;
+Faculty Mentorship The HEAL Initiative believes a mentorship model that ensures both consistency and quality is an essential component of its fellows’ experience. Therefore, the HEAL Initiative matches each of its fellows with mentors who will provide guidance and support throughout the fellowship’s two-year duration. These on-site mentors will contribute local knowledge and resources for fellows, assist with research projects, and provide other day-to-day support. Bi-weekly meetings between fellows and the on-site mentor foster communication and collaboration within the HEAL Initiative team
+<p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p>
+[spacer height="400px"]
 
+Anesthesia Pathway   Through a partnership between the <strong><a title="HEAL Initiative" href="http://healinitiative.org/">HEAL Initiative</a></strong> and the <strong><a href="http://anesthesia.ucsf.edu/" target="_blank">UCSF Department of Anesthesia &amp; Perioperative Care</a></strong>, this new anesthesia fellowship pathway offers a unique, advanced training opportunity for board-eligible and board-certified anesthesiologists (surgery and obstetric pathways coming soon). As part of the UCSF family, our fellows will have opportunities to work with many ongoing global health initiatives at UCSF including the <a href="http://global.surgery.ucsf.edu/" target="_blank"><strong>Center for Global Surgical Studies</strong>,</a> <strong><a href="http://www.globalsurgery.org/" target="_blank">Global Partners in Anesthesia &amp; Surgery</a></strong>, and UCSF <strong><a href="http://globalhealthsciences.ucsf.edu/" target="_blank">Global Health Sciences</a>.</strong>
+<p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p>
+[spacer height="400px"]
 
-Through a partnership between the <strong><a title="HEAL Initiative" href="http://healinitiative.org/">HEAL Initiative</a></strong> and the <strong><a href="http://anesthesia.ucsf.edu/" target="_blank">UCSF Department of Anesthesia &amp; Perioperative Care</a></strong>, this new anesthesia fellowship pathway offers a unique, advanced training opportunity for board-eligible and board-certified anesthesiologists (surgery and obstetric pathways coming soon).
-
-As part of the UCSF family, our fellows will have opportunities to work with many ongoing global health initiatives at UCSF including the <a href="http://global.surgery.ucsf.edu/" target="_blank"><strong>Center for Global Surgical Studies</strong>,</a> <strong><a href="http://www.globalsurgery.org/" target="_blank">Global Partners in Anesthesia &amp; Surgery</a></strong>, and UCSF&nbsp;<strong><a href="http://globalhealthsciences.ucsf.edu/" target="_blank">Global Health Sciences</a>.</strong>
-
-
-&nbsp;
-<p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p><p>[spacer height="400px"]</p><h7 class="headline">Anesthesia Pathway</h7>
-
-
-Through a partnership between the <strong><a title="HEAL Initiative" href="http://healinitiative.org/">HEAL Initiative</a></strong> and the <strong><a href="http://anesthesia.ucsf.edu/" target="_blank">UCSF Department of Anesthesia &amp; Perioperative Care</a></strong>, this new anesthesia fellowship pathway offers a unique, advanced training opportunity for board-eligible and board-certified anesthesiologists (surgery and obstetric pathways coming soon).
-
-As part of the UCSF family, our fellows will have opportunities to work with many ongoing global health initiatives at UCSF including the <a href="http://global.surgery.ucsf.edu/" target="_blank"><strong>Center for Global Surgical Studies</strong>,</a> <strong><a href="http://www.globalsurgery.org/" target="_blank">Global Partners in Anesthesia &amp; Surgery</a></strong>, and UCSF&nbsp;<strong><a href="http://globalhealthsciences.ucsf.edu/" target="_blank">Global Health Sciences</a>.</strong>
-
-
-&nbsp;
+Anesthesia Pathway Through a partnership between the <strong><a title="HEAL Initiative" href="http://healinitiative.org/">HEAL Initiative</a></strong> and the <strong><a href="http://anesthesia.ucsf.edu/" target="_blank">UCSF Department of Anesthesia &amp; Perioperative Care</a></strong>, this new anesthesia fellowship pathway offers a unique, advanced training opportunity for board-eligible and board-certified anesthesiologists (surgery and obstetric pathways coming soon). As part of the UCSF family, our fellows will have opportunities to work with many ongoing global health initiatives at UCSF including the <a href="http://global.surgery.ucsf.edu/" target="_blank"><strong>Center for Global Surgical Studies</strong>,</a> <strong><a href="http://www.globalsurgery.org/" target="_blank">Global Partners in Anesthesia &amp; Surgery</a></strong>, and UCSF <strong><a href="http://globalhealthsciences.ucsf.edu/" target="_blank">Global Health Sciences</a>.</strong>
 <p style="text-align: center;"><a class="button darkblue" href="/">Learn More</a></p>
