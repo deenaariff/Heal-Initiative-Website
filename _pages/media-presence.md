@@ -13,7 +13,7 @@ sg_promotional_popup:
   - Not selected
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:9:{i:0;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:405:"<h4>July 14, 2015</h4>
+    a:3:{s:7:"widgets";a:9:{i:0;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:405:"<h5>July 14, 2015</h5>
     
     <a href="http://healtest.space/wp-content/uploads/2015/06/meida.png"><img class="alignnone  wp-image-1025" src="http://healtest.space/wp-content/uploads/2015/06/meida.png" alt="meida" width="244" height="244" /></a>
     
