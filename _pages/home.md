@@ -11,8 +11,7 @@ wptr_hide_title:
   - "1"
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:26:{i:0;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="500px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:265:"<iframe  width="90%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-     <div style="width:100%; max-width:800px;">
+    a:3:{s:7:"widgets";a:26:{i:0;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="500px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:183:"<div style="width:100%; max-width:800px;">
         <iframe width="960" height="720" src="https://player.vimeo.com/video/108281620"
            frameborder="0" allowfullscreen></iframe>
     </div>
