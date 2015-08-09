@@ -11,7 +11,7 @@ wptr_hide_title:
   - "1"
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:26:{i:0;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="500px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:124:"<p style="text-align: center;">0[KGVID]http://healtest.space/wp-content/uploads/2015/05/HEAL-Initiative-HD-1.mp4[/KGVID]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:5:"style";a:4:{s:10:"widget_css";s:61:"padding-right: auto;
+    a:3:{s:7:"widgets";a:26:{i:0;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="500px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:123:"<p style="text-align: center;">[KGVID]http://healtest.space/wp-content/uploads/2015/05/HEAL-Initiative-HD-1.mp4[/KGVID]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:5:"style";a:4:{s:10:"widget_css";s:61:"padding-right: auto;
     padding-left: auto;
     text-align: center;
     ";s:7:"padding";s:2:"0%";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:2;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:818:"<h2> <strong><em>"Alleviating needless suffering through the training of a health workforce, at home and abroad."</em></strong></h2>
@@ -65,9 +65,12 @@ Many of the leading causes of death – such as diabetes, heart disease, stroke,
 <h2 style="text-align: left;">  A Global Perspective</h2>
 - Diseases of Poverty - Health Equity - Health and Development - Global Health Ethics - Understanding Local Context - Health Systems Strengthening - Medical Education - Quality Improvement
 <p style="text-align: left;"><a class="button darkblue" href="/healtest.space/curriculum">Our Curriculum</a></p>
+<p style="text-align: center;"></p>
 &nbsp;
+<p style="text-align: center;"></p>
 <p style="text-align: center;"><a class="button brown" href="/">San Fransisco</a>     <a class="button brown" href="/">Navajo Nations</a>   <a class="button brown" href="/">Mexico</a>    <a class="button brown" href="/">Haiti</a></p>
 [spacer height="400px"]
+<p style="text-align: center;"></p>
 <p style="text-align: center;"> <a class="button brown" href="/">Liberia</a>         <a class="button brown" href="/">Malawi</a>          <a class="button brown" href="/">India</a>          <a class="button brown" href="/">Nepal</a></p>
 <p style="text-align: center;">[spacer height="80px"]</p>
 
