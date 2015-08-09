@@ -12,7 +12,7 @@ wptr_hide_title:
 panels_data:
   - |
     a:3:{s:7:"widgets";a:26:{i:0;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:30:"<p>[spacer height="500px"]</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:1:{s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:183:"<div style="width:100%; max-width:800px;">
-        <iframe width="960" height="720" src="https://player.vimeo.com/video/108281620"
+        <iframe width="90%" height="330" src="https://player.vimeo.com/video/108281620"
            frameborder="0" allowfullscreen></iframe>
     </div>
     ";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:5:"style";a:4:{s:10:"widget_css";s:20:"text-align: center;
@@ -50,11 +50,10 @@ panels_data:
 sg_promotional_popup:
   - Not selected
 ---
-<p>[spacer height="500px"]</p>&nbsp;
+<p>[spacer height="500px"]</p>
+    <iframe width="90%" height="330" src="https://player.vimeo.com/video/108281620" frameborder="0" allowfullscreen=""></iframe>
 
-<iframe src="https://player.vimeo.com/video/108281620" width="90%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-&nbsp;<h2>&nbsp;<strong><em>"Alleviating needless suffering through the training of a health&nbsp;workforce, at home and abroad."</em></strong></h2>
+<h2>&nbsp;<strong><em>"Alleviating needless suffering through the training of a health&nbsp;workforce, at home and abroad."</em></strong></h2>
 Many of the leading causes of death – such as diabetes, heart disease, stroke, and cancer – in resource-poor countries today are preventable and/or treatable, and have been for decades. Additionally, as the world develops and changes, the medical paradigm has shifted; rather than responding primarily to humanitarian emergencies and infectious diseases, health care providers must now also focus on managing chronic illnesses and creating sustainable health systems. To consistently deliver care to those in need, we must transform our view of global health.<b>&nbsp;</b>
 <p style="text-align: center;"><a class="button darkblue" href="/healtest.psace/our-story">Who are We?</a></p><p><a href="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2.jpg"><img class=" wp-image-151  aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/on-mobile-clinic-2-300x200.jpg" alt="" width="661" height="435"></a></p><h1 style="text-align: center;">Serve</h1><a href="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623.jpg"><img class=" wp-image-152  aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Lester_0801107_0623-300x201.jpg" alt="" width="652" height="443"></a>
 <h1 style="text-align: center;">Educate</h1><p><a href="http://healtest.space/wp-content/uploads/2015/05/Haiti_0397_SheilaMenezes_Proposal.jpg"><img class="alignnone  wp-image-150 aligncenter" src="http://healtest.space/wp-content/uploads/2015/05/Haiti_0397_SheilaMenezes_Proposal-300x200.jpg" alt="Haiti_0397_SheilaMenezes_Proposal" width="653" height="423"></a></p><h1 style="text-align: center;">Heal</h1><p style="text-align: center;"><a class="button darkblue" href="/healtest.space/our-mission">Our Mission</a></p>&nbsp;
