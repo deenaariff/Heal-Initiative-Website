@@ -15,7 +15,7 @@ panels_data:
     
     &nbsp;
     
-    <iframe src="https://player.vimeo.com/video/108281620" width="650px" height="400px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+    <iframe src="https://player.vimeo.com/video/108281620" width="600px" height="400px" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
     
     &nbsp;";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:5:"style";a:4:{s:10:"widget_css";s:20:"text-align: center;
     ";s:7:"padding";s:2:"0%";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:2;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:818:"<h2> <strong><em>"Alleviating needless suffering through the training of a health workforce, at home and abroad."</em></strong></h2>
