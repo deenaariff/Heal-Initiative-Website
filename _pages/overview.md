@@ -20,15 +20,7 @@ panels_data:
     
     
     
-    &nbsp;";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:3:{s:10:"background";s:7:"#127e9b";s:27:"background_image_attachment";i:811;s:18:"background_display";s:5:"cover";}}}i:1;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:257:"	<div class="ch-item">				
-    		<div class="ch-info">
-    			<div class="ch-info-front ch-img-1"></div>
-    			<div class="ch-info-back">
-    				<h3>Mouse</h3>
-    				<p>by Alexander Shumihin <a href="http://drbl.in/eAoj">View on Dribbble</a></p>
-    			</div>	
-    		</div>
-    	</div>";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:0;s:4:"cell";i:2;s:2:"id";i:1;s:5:"style";a:3:{s:10:"widget_css";s:1667:".ch-item {
+    &nbsp;";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:3:{s:10:"background";s:7:"#127e9b";s:27:"background_image_attachment";i:811;s:18:"background_display";s:5:"cover";}}}i:1;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:223:"<div class="ch-item"><div class="ch-info"><div class="ch-info-front ch-img-1"> </div><div class="ch-info-back"><h3>Mouse</h3><p>by Alexander Shumihin <a href="http://drbl.in/eAoj">View on Dribbble</a></p></div></div></div>";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:0;s:4:"cell";i:2;s:2:"id";i:1;s:5:"style";a:3:{s:10:"widget_css";s:1667:".ch-item {
     	width: 100%;
     	height: 100%;
     	border-radius: 50%;
@@ -164,15 +156,7 @@ panels_data:
 
 
 
-&nbsp;</li>&nbsp;					
-		
-			
-			
-				<h3>Mouse</h3>
-				<p>by Alexander Shumihin <a href="http://drbl.in/eAoj">View on Dribbble</a></p>
-				
-		
-	<p style="text-align: center;">[hover category="step-4" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p><p style="text-align: center;">[hover category="step-2" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p><p style="text-align: center;">[hover category="step-5" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p><p style="text-align: center;">[hover category="step-3" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p><h2 style="text-align: center;">&nbsp;[spacer height="0px"]&nbsp;</h2><h2 style="text-align: center;">Scroll over</h2><h2 style="text-align: center;">to see description</h2>&nbsp;
+&nbsp;</li>&nbsp;&nbsp;<h3>Mouse</h3><p>by Alexander Shumihin <a href="http://drbl.in/eAoj">View on Dribbble</a></p><p style="text-align: center;">[hover category="step-4" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p><p style="text-align: center;">[hover category="step-2" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p><p style="text-align: center;">[hover category="step-5" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p><p style="text-align: center;">[hover category="step-3" style="circle" effect="effect11" animation="left_to_right" width="220" height="220" letf_right="12" heading_font="25" heading_color="#e31f1f" desc_font="12" desc_color="#513f3f"]</p><h2 style="text-align: center;">&nbsp;[spacer height="0px"]&nbsp;</h2><h2 style="text-align: center;">Scroll over</h2><h2 style="text-align: center;">to see description</h2>&nbsp;
 <p style="text-align: center;">MPH Semester 1</p><p>&nbsp;</p><p style="text-align: center;">MPH Semester 2</p><p>&nbsp;</p><p style="text-align: center;">MPH Semester 3</p><p>&nbsp;</p><p style="text-align: center;">MPH Semester 4</p><p>&nbsp;</p><p style="text-align: center;">MPH Semester 5</p>&nbsp;
 <p style="text-align: center;">MPH Semester 6</p><p>&nbsp;</p><p style="text-align: center;">Indian Health Service</p><p>&nbsp;</p><p style="text-align: center;">International</p><p>&nbsp;</p><p style="text-align: center;">Indian Health Service</p><p>&nbsp;</p><p style="text-align: center;">International</p><p>&nbsp;</p><p style="text-align: center;">Indian Health Service</p>&nbsp;
 <p style="text-align: center;">International</p>
