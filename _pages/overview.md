@@ -23,7 +23,7 @@ panels_data:
     &nbsp;";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:3:{s:10:"background";s:7:"#127e9b";s:27:"background_image_attachment";i:811;s:18:"background_display";s:5:"cover";}}}i:1;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:73:"<div class = "circle">
           <h1> Hello </h1>
           <p> test </p>
-    </div> ";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:0;s:4:"cell";i:2;s:2:"id";i:1;s:5:"style";a:3:{s:10:"widget_css";s:239:".circle {
+    </div> ";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:0;s:4:"cell";i:2;s:2:"id";i:1;s:5:"style";a:3:{s:10:"widget_css";s:264:".circle {
     	display: block;
     	border-radius: 50%;
     	width: 100px;
@@ -33,6 +33,7 @@ panels_data:
     	color: #287543;
     	vertical-align: middle;
     	overflow: none;
+            font-size: 12px;
     }
     
     .circle:hover {
