@@ -11,7 +11,7 @@ wptr_hide_title:
   - "1"
 panels_data:
   - |
-    a:3:{s:7:"widgets";a:9:{i:0;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:20:"Media & Publications";s:4:"text";s:0:"";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:2:{s:10:"widget_css";s:15:"margin-top: 3%;";s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:413:"<h6>July 14, 2015</h6><p><a href="http://healtest.space/wp-content/uploads/2015/06/meida.png"><img class="alignnone  wp-image-1025" src="http://healtest.space/wp-content/uploads/2015/06/meida.png" alt="meida" width="366" height="366" /></a></p><p>The HEAL Initiative inaugural fellowship cohort (Dr. Jimena Masa from Chiapas, Mexico and Dr. Michael Tutt from Fort Defiance, Arizona) interviewed by KCBS radio.</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:5:"style";a:4:{s:10:"widget_css";s:14:"height: 800px;";s:7:"padding";s:2:"4%";s:10:"background";s:7:"#ffffff";s:18:"background_display";s:4:"tile";}}}i:2;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:591:"<h6>April 3, 2015</h6><p><a href="http://healtest.space/wp-content/uploads/2015/06/daimage.jpg"><img class="alignnone  wp-image-1048" src="http://healtest.space/wp-content/uploads/2015/06/daimage-279x300.jpg" alt="daimage" width="439" height="472" /></a></p><p><a href="http://www.the-hospitalist.org/article/hospitalist-training-helps-phuoc-le-md-mph-fight-global-health-inequality" target="_blank"><em>Hospitalist Training Helps Phuoc Le, MD, MPH, Fight Global Health Inequality</em></a> from Chiapas, Mexico and Dr. Michael Tutt from Fort Defiance, Arizona) interviewed by KCBS radio.</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:5:"style";a:4:{s:10:"widget_css";s:14:"height: 800px;";s:7:"padding";s:2:"4%";s:10:"background";s:7:"#efefef";s:18:"background_display";s:4:"tile";}}}i:3;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:585:"<h6>February 19, 2015</h6>
+    a:3:{s:7:"widgets";a:9:{i:0;a:5:{s:4:"type";s:4:"html";s:5:"title";s:20:"Media & Publications";s:4:"text";s:0:"";s:6:"filter";s:1:"1";s:11:"panels_info";a:5:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:4:"grid";i:0;s:4:"cell";i:0;s:2:"id";i:0;s:5:"style";a:4:{s:10:"widget_css";s:15:"margin-top: 3%;";s:10:"background";s:7:"#897364";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}i:1;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:413:"<h6>July 14, 2015</h6><p><a href="http://healtest.space/wp-content/uploads/2015/06/meida.png"><img class="alignnone  wp-image-1025" src="http://healtest.space/wp-content/uploads/2015/06/meida.png" alt="meida" width="366" height="366" /></a></p><p>The HEAL Initiative inaugural fellowship cohort (Dr. Jimena Masa from Chiapas, Mexico and Dr. Michael Tutt from Fort Defiance, Arizona) interviewed by KCBS radio.</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:1;s:5:"style";a:4:{s:10:"widget_css";s:14:"height: 800px;";s:7:"padding";s:2:"4%";s:10:"background";s:7:"#ffffff";s:18:"background_display";s:4:"tile";}}}i:2;a:5:{s:4:"type";s:6:"visual";s:5:"title";s:0:"";s:4:"text";s:591:"<h6>April 3, 2015</h6><p><a href="http://healtest.space/wp-content/uploads/2015/06/daimage.jpg"><img class="alignnone  wp-image-1048" src="http://healtest.space/wp-content/uploads/2015/06/daimage-279x300.jpg" alt="daimage" width="439" height="472" /></a></p><p><a href="http://www.the-hospitalist.org/article/hospitalist-training-helps-phuoc-le-md-mph-fight-global-health-inequality" target="_blank"><em>Hospitalist Training Helps Phuoc Le, MD, MPH, Fight Global Health Inequality</em></a> from Chiapas, Mexico and Dr. Michael Tutt from Fort Defiance, Arizona) interviewed by KCBS radio.</p>";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:0;s:2:"id";i:2;s:5:"style";a:4:{s:10:"widget_css";s:14:"height: 800px;";s:7:"padding";s:2:"4%";s:10:"background";s:7:"#efefef";s:18:"background_display";s:4:"tile";}}}i:3;a:5:{s:4:"type";s:4:"html";s:5:"title";s:0:"";s:4:"text";s:585:"<h6>February 19, 2015</h6>
     <p class="page-title"><em><a title="UCSF and the Ebola Response" href="http://www.ucsf.edu/content/ucsf-and-ebola-response" target="_blank">UCSF and the Ebola Response</a>:“The response to Ebola is clearly going to be a many years-long process, maybe even a decades-long process.”</em></p>
     <p class="page-title"><em>HEAL fellow Ami Waters and Co-Founder Phuoc Le share their recent experiences working in Liberia. </em></p>
     &nbsp;
@@ -34,41 +34,39 @@ panels_data:
     
     <address class="p1"><a href="http://www.news10.net/story/news/local/stockton/2014/11/13/stockton-miracle-baby-lives-up-to-her-name/18952519/" target="_blank">Click here for full story</a></address>&nbsp;";s:6:"filter";s:1:"1";s:11:"panels_info";a:6:{s:5:"class";s:30:"WP_Widget_Black_Studio_TinyMCE";s:3:"raw";b:0;s:4:"grid";i:1;s:4:"cell";i:1;s:2:"id";i:8;s:5:"style";a:4:{s:10:"widget_css";s:51:"height: 800px;
     padding-left: 4%;
-    padding-right: 4%;";s:7:"padding";s:2:"4%";s:10:"background";s:7:"#ffffff";s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:2:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:3:{s:11:"row_stretch";s:14:"full-stretched";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}i:1;a:2:{s:5:"cells";i:2;s:5:"style";a:2:{s:11:"row_stretch";s:14:"full-stretched";s:18:"background_display";s:4:"tile";}}}s:10:"grid_cells";a:3:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}}}
+    padding-right: 4%;";s:7:"padding";s:2:"4%";s:10:"background";s:7:"#ffffff";s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:2:{i:0;a:2:{s:5:"cells";i:1;s:5:"style";a:4:{s:11:"row_stretch";s:14:"full-stretched";s:10:"background";s:7:"#897364";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}i:1;a:2:{s:5:"cells";i:2;s:5:"style";a:2:{s:11:"row_stretch";s:14:"full-stretched";s:18:"background_display";s:4:"tile";}}}s:10:"grid_cells";a:3:{i:0;a:2:{s:4:"grid";i:0;s:6:"weight";i:1;}i:1;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}i:2;a:2:{s:4:"grid";i:1;s:6:"weight";d:0.5;}}}
 ---
+<h3 class="widget-title">Media &amp; Publications</h3>
 <h6>July 14, 2015</h6>
-<a href="http://healtest.space/wp-content/uploads/2015/06/meida.png"><img class="alignnone wp-image-1025" src="http://healtest.space/wp-content/uploads/2015/06/meida.png" alt="meida" width="366" height="366" /></a>
+<a href="http://healtest.space/wp-content/uploads/2015/06/meida.png"><img class="alignnone  wp-image-1025" src="http://healtest.space/wp-content/uploads/2015/06/meida.png" alt="meida" width="366" height="366" /></a>
 
 The HEAL Initiative inaugural fellowship cohort (Dr. Jimena Masa from Chiapas, Mexico and Dr. Michael Tutt from Fort Defiance, Arizona) interviewed by KCBS radio.
 <h6>April 3, 2015</h6>
-<a href="http://healtest.space/wp-content/uploads/2015/06/daimage.jpg"><img class="alignnone wp-image-1048" src="http://healtest.space/wp-content/uploads/2015/06/daimage-279x300.jpg" alt="daimage" width="439" height="472" /></a>
+<a href="http://healtest.space/wp-content/uploads/2015/06/daimage.jpg"><img class="alignnone  wp-image-1048" src="http://healtest.space/wp-content/uploads/2015/06/daimage-279x300.jpg" alt="daimage" width="439" height="472" /></a>
 
 <a href="http://www.the-hospitalist.org/article/hospitalist-training-helps-phuoc-le-md-mph-fight-global-health-inequality" target="_blank"><em>Hospitalist Training Helps Phuoc Le, MD, MPH, Fight Global Health Inequality</em></a> from Chiapas, Mexico and Dr. Michael Tutt from Fort Defiance, Arizona) interviewed by KCBS radio.
 <h6>February 19, 2015</h6>
 <p class="page-title"><em><a title="UCSF and the Ebola Response" href="http://www.ucsf.edu/content/ucsf-and-ebola-response" target="_blank">UCSF and the Ebola Response</a>:“The response to Ebola is clearly going to be a many years-long process, maybe even a decades-long process.”</em></p>
 <p class="page-title"><em>HEAL fellow Ami Waters and Co-Founder Phuoc Le share their recent experiences working in Liberia. </em></p>
-
-<iframe src="https://www.youtube.com/embed/7tYW1i3oX3k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+  <iframe src="https://www.youtube.com/embed/7tYW1i3oX3k" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <h6>November 18, 2014</h6>
 Comfort &amp; empathy are often tactile. Dr. Phuoc Le writes about providing “no touch” care in Liberia and what it means for the doctor-patient relationship.
 
-<a href="http://healtest.space/wp-content/uploads/2015/06/media-5.png"><img class="alignnone wp-image-1072" src="http://healtest.space/wp-content/uploads/2015/06/media-5-295x300.png" alt="media-5" width="427" height="434" /></a>
+<a href="http://healtest.space/wp-content/uploads/2015/06/media-5.png"><img class="alignnone  wp-image-1072" src="http://healtest.space/wp-content/uploads/2015/06/media-5-295x300.png" alt="media-5" width="427" height="434" /></a>
 
 <a href="http://www.huffingtonpost.com/phuoc-le/ebola-doctor-patient-relationship_b_6178620.html" target="_blank">Click here for full article</a>
 <h6>May 10, 2015</h6>
-<a href="http://medicine.ucsf.edu/news/fom/frontiers.html?key=95&amp;title=Healing+the+World%3A+Training+Global+Health+Expert" target="_blank">The HEAL Initiative is featured in UCSF Frontiers of Medicine Spring 2015 issue!</a>
-
-<a href="http://healtest.space/wp-content/uploads/2015/06/media02.png"><img class="alignnone wp-image-1026" src="http://healtest.space/wp-content/uploads/2015/06/media02-300x248.png" alt="media02" width="563" height="465" /></a>
+<a href="http://medicine.ucsf.edu/news/fom/frontiers.html?key=95&amp;title=Healing+the+World%3A+Training+Global+Health+Expert" target="_blank">The HEAL Initiative is featured in UCSF Frontiers of Medicine Spring 2015 issue!</a> <a href="http://healtest.space/wp-content/uploads/2015/06/media02.png"><img class="alignnone  wp-image-1026" src="http://healtest.space/wp-content/uploads/2015/06/media02-300x248.png" alt="media02" width="563" height="465" /></a>
 <h6>March 29, 2015</h6>
 <a href="https://healinitiativedotorg.files.wordpress.com/2014/07/heal-spring-2015-update.pdf">HEAL Spring 2015 Update</a>
 
 &nbsp;
 
-<a href="http://healtest.space/wp-content/uploads/2015/06/media3.png"><img class="alignnone wp-image-1042" src="http://healtest.space/wp-content/uploads/2015/06/media3-300x230.png" alt="media3" width="460" height="353" /></a>
+<a href="http://healtest.space/wp-content/uploads/2015/06/media3.png"><img class="alignnone  wp-image-1042" src="http://healtest.space/wp-content/uploads/2015/06/media3-300x230.png" alt="media3" width="460" height="353" /></a>
 
 &nbsp;
 <h6>December 1, 2014</h6>
-<a href="http://healtest.space/wp-content/uploads/2015/06/media04.png"><img class=" wp-image-1075 alignleft" src="http://healtest.space/wp-content/uploads/2015/06/media04-300x260.png" alt="media04" width="438" height="380" /></a>
+<a href="http://healtest.space/wp-content/uploads/2015/06/media04.png"><img class="  wp-image-1075 alignleft" src="http://healtest.space/wp-content/uploads/2015/06/media04-300x260.png" alt="media04" width="438" height="380" /></a>
 
 &nbsp;
 
